@@ -4,28 +4,6 @@
 
 <p align="left">- Hi 👋! My name is Lucas Sebastian<br>- I'm 25 years old<br>- Graduated in systems analysis and development<br>- C# Developer<br>- Software Developer at Stone Co 💚<br>- Approximately 2 and a half years of career</p>
 
-###
-
-<h2 align="left">Statistics</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucaxSebastian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=LucaxSebastian&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaxSebastian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucaxSebastian&area=true&radius=16&theme=react" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
@@ -54,6 +32,28 @@
 
 ###
 
+###
+
+<h2 align="left">Statistics</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucaxSebastian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LucaxSebastian&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaxSebastian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucaxSebastian&area=true&radius=16&theme=react" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <h2 align="left">Social media</h2>
 
 ###
@@ -69,14 +69,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lucaxSebastian/lucaxSebastian/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="right">
-  <img height="210" src="https://i.gifer.com/Ao.gif"  />
+  <img height="210" src="https://media.giphy.com/media/JyyUwsNClJDoI/giphy.gif?cid=ecf05e47mhnyengle9urwmh16axco289ezdsmyzt6ge6gfnu&ep=v1_gifs_related&rid=giphy.gif" />
 </div>
 
 ###
