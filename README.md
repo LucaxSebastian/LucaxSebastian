@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Lucas Sebastian and I currently work as a Junior Developer at Stone Co 💚</h2>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- Hi 👋! My name is Lucas Sebastian<br>- I'm 25 years old<br>- Graduated in systems analysis and development<br>- C# Developer<br>- Software Developer at Stone Co 💚<br>- Approximately 2 and a half years of career</p>
 
 ###
 
@@ -22,7 +26,7 @@
 
 ###
 
-<h2 align="left">Tools</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
