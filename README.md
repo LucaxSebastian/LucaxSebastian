@@ -72,7 +72,7 @@
 ###
 
 <div align="right">
-  <img height="210" src="https://media.giphy.com/media/JyyUwsNClJDoI/giphy.gif?cid=ecf05e47mhnyengle9urwmh16axco289ezdsmyzt6ge6gfnu&ep=v1_gifs_related&rid=giphy.gif" />
+  <img height="210" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAzbGRmbDBodDFsenlqdWVybXZ3bjJtZzcxc3BvZjZnYnloemFmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyyUwsNClJDoI/200.webp" />
 </div>
 
 ###
