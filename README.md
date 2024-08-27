@@ -69,6 +69,8 @@
 
 ###
 
+![snake animation](https://github.com/lucaxsebastian/lucaxsebastian/blob/output/github-contribution-grid-snake-dark.svg)
+
 ###
 
 <div align="right">
