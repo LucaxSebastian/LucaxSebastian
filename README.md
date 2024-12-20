@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">- Hi 👋! My name is Lucas Sebastian<br>- I'm 25 years old<br>- Graduated in systems analysis and development<br>- C# Developer<br>- Software Developer at Stone Co 💚<br>- Approximately 2 and a half years of career</p>
+* Hi 👋! My name is Lucas Sebastian  
+* I'm 25 years old  
+* I love traveling ✈️  
+* Graduated in systems analysis and development  
+* C# Developer  
+* Software Developer at Stone Co 💚  
+* Approximately 2 and a half years of career  
 
 <h2 align="left">Techs</h2>
 
